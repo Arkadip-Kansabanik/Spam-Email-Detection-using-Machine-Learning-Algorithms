@@ -157,7 +157,7 @@ Spam-Email-Detection/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Spam-Email-Detection.git
+git clone https://github.com/Arkadip-Kansabanik/Spam-Email-Detection-using-Machine-Learning-Algorithms.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
