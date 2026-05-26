@@ -39,7 +39,7 @@ Dataset used: **Spam Email Dataset (`spam.csv`)**
 
 ---
 
-## 🛠️ Technologies/Tools Used
+## 🛠️ Technologies Used
 
 ### Programming Language
 - Python
