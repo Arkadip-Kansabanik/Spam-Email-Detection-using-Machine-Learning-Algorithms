@@ -163,7 +163,7 @@ git clone https://github.com/Arkadip-Kansabanik/Spam-Email-Detection-using-Machi
 ### 2️⃣ Navigate to Project Directory
 
 ```bash
-cd Spam-Email-Detection
+cd Spam-Email-Detection-using-Machine-Learning-Algorithms
 ```
 
 ### 3️⃣ Install Dependencies
