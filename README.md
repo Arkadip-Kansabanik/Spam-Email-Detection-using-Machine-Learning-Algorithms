@@ -210,25 +210,3 @@ scikit-learn
 
 ---
 
-## 📚 References
-
-1. Krish Naik — Spam Email Detection Project using NLP and Machine Learning  
-2. CodeWithHarry — Text Classification using Machine Learning  
-3. CampusX — Email/SMS Spam Classifier using NLP  
-4. Scikit-learn Documentation  
-5. GeeksforGeeks — Spam Detection using Python and Scikit-learn  
-
----
-
-## 👨‍💻 Author
-
-**Arkadip Kansabanik**  
-Department of Computer Science  
-Ramakrishna Mission Vivekananda Educational & Research Institute  
-Belur Math, Howrah, West Bengal
-
----
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
